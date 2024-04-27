@@ -1,0 +1,68 @@
+html,body{
+    height: 100%;
+    width: 100%;
+    background-color: lightgray;
+}
+.flex{
+    display: flex;
+}
+
+.button{
+    padding: 20px;
+    width: 66px;
+    margin: 0 5px;
+    border: 2px solid black;
+    border-radius: 50%;
+    cursor: pointer;
+    font-size:larger;
+    background-color: gray;
+    color: wheat(80, 6, 6);
+    box-sizing: border-box;
+    
+   
+}
+ .b1{
+    background-color: orange;
+    color: black;
+}
+.row{
+    margin: 7px 0;
+}
+.row input{
+    font-size: 24px;
+    margin: 0px;
+    padding: 11PX 0PX;
+    border: 2px solid black;
+    border-radius: 5px;
+}
+
+
+.container{
+    position: relative;
+    display: inline-block;
+    width: 350px;
+    height: 500px;
+    border:  1px solid white;
+    margin: 15px;
+    text-align: center;
+    background-color: black;
+    border: 2px solid black;
+    border-radius: 10px;
+}
+.text-center{
+    text-align: center ;
+    color: black;
+    
+}
+.mx-auto{
+    margin: auto;
+}
+.flex{
+    display: flex;
+}
+.flex-col{
+    flex-direction: column;
+}
+.flex-col{
+    flex-direction: column;
+}
